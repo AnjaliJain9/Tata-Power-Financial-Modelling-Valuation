@@ -1,7 +1,7 @@
 # Tata-Power-Financial-Modelling-Valuation
 
 📊 **Project Overview**  
-This project is a complete financial modeling and valuation analysis of Tata Power using Excel and visualized through Power BI. The goal was to determine the fair intrinsic value of the stock using industry-standard valuation techniques and in-depth risk assessments.
+This project is a complete financial modeling and valuation analysis of Tata Power using Excel. The goal was to determine the fair intrinsic value of the stock using industry-standard valuation techniques and in-depth risk assessments.
 
 ## 🔍 Key Highlights:
 - 📈 Built a full 3-statement financial model with projections
@@ -9,7 +9,6 @@ This project is a complete financial modeling and valuation analysis of Tata Pow
 - 🏷️ Comps Valuation using EV/EBITDA and P/S multiples
 - 📊 Monte Carlo Simulation to account for uncertainty
 - ⚠️ Risk Analysis with Altman Z-Score & DuPont Breakdown
-- 📌 Interactive Power BI dashboard with scenario-based analysis
 
 ## 📂 Files Included:
 - Excel Financial Model (.xlsx)
